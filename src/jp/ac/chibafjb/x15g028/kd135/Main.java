@@ -9,6 +9,8 @@ public class Main {
 		
 		str1="apple";
 		str2="orange";
+		System.out.println(str1);
+		System.out.println(str2);
 	}
 
 }
